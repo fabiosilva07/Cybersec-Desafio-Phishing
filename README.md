@@ -23,10 +23,10 @@ Repositório do desafio de projeto do bootcamp Cybersecurity DIO
 
 ![image](https://github.com/fabiosilva07/Cybersec-Desafio-Phishing/assets/45124117/29d05d40-8566-479b-be2a-466f00e81bfe)
 
-### Fazendo dessa forma as senha não apareceram conforme na imagem acima. Pesquisando na internet e no forum da DIO foi discutida uma outra forma de fazer para trazer um resultado real para o caso, usando a opção de Web Templates.
+### Fazendo dessa forma as senha não apareceram, conforme na imagem acima. Pesquisando na internet e no forum da DIO foi discutida uma outra forma de fazer para trazer um resultado real para o caso, usando a opção de Web Templates.
 ### Segue o procedimento realizado abaixo
 
-# Phishing para captura de senhas do Facebook
+# Phishing para captura de senhas
 
 ### Ferramentas
 
